@@ -1,1 +1,1 @@
-window.location.href = "/arcade/";
+window.location.href = "/BonziArcade/arcade/";
